@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Android/HeaderComponent.qml</file>
+        <file>Android/MenuComponent.qml</file>
+        <file>Components/BlurRectangle.qml</file>
+        <file>Components/Post.qml</file>
+        <file>Android/CircleButton.qml</file>
+        <file>Windows/TitleBar.qml</file>
+        <file>Windows/TitleBarButton.qml</file>
+        <file>ThreadPage.qml</file>
+        <file>Components/FontIcon.qml</file>
+        <file>js/fonticons.js</file>
+        <file>res/fonts/fontawesome-webfont.ttf</file>
+        <file>res/fonts/ionicons.ttf</file>
+        <file>Android/PostTabBar.qml</file>
+        <file>Android/PostToolButton.qml</file>
+        <file>Components/BusyIndicatorPage.qml</file>
+        <file>Components/PosterInfoPopup.qml</file>
+        <file>Globals/Global.qml</file>
+        <file>Components/SideBarElement.qml</file>
+        <file>Pages/SettingsPage.qml</file>
+        <file>Components/SidePanel.qml</file>
+        <file>Pages/SettingsPage/SettingsPageHeaderLabel.qml</file>
+        <file>Components/FloatingCard.qml</file>
+        <file>Pages/ShopPage.qml</file>
+        <file>Pages/EventLogPage.qml</file>
+        <file>Pages/PinnedThreadsPage.qml</file>
+        <file>Pages/LoginPage.qml</file>
+        <file>Components/NinepunchPopup.qml</file>
+        <file>Components/RatingsPopup.qml</file>
+        <file>ChatPage.qml</file>
+        <file>Android/GlyphButton.qml</file>
+        <file>Components/UserPanel.qml</file>
+        <file>Components/ChannelButton.qml</file>
+        <file>Pages/LoggingInPage.qml</file>
+    </qresource>
+</RCC>

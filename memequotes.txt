@@ -1,0 +1,12 @@
+Show these sequentially
+
+"This application is not affiliated with Discord Inc!",
+"This is not an official Discord app!",
+"Bring your native apps to new platforms!",
+"Got a job offer? Hit me up at sam@sampavlovic.com",
+"Be glad that we don't put memes here.",
+"The only allowed memes are for Baneposting",
+"Was getting caught part of your plan?",
+"You're a big guy... For you!",
+"UUUU",
+"Yes, the fire rises"
